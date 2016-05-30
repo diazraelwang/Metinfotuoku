@@ -4,4 +4,4 @@ py版本2.7
 漏洞详情参见http://www.wooyun.org/bugs/wooyun-2015-0119166/
 下载之后执行python metinfoSpider.py -h 查看帮助
 效果截图：
-<IMG src="file:///C:\Users\W.sy\AppData\Roaming\feiq\RichOle\2579632218.bmp">
+<IMG src="https://github.com/diazraelwang/Metinfotuoku/metinfotuoku.jpg">
